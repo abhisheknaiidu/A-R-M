@@ -6,10 +6,10 @@ include ('includes/adminheader.php');
 
 <style>
 
-@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 .page-header {
-    font-family:'Covered By Your Grace', cursive;
+    font-family:'Roboto', cursive;
     text-shadow: 0 2px white, 0 3px #777;
 
 }
@@ -19,7 +19,7 @@ include ('includes/adminheader.php');
 h4 , p {
   color: #F26998;
   font-size: 20px;
-  font-family:'Covered By Your Grace', cursive;
+  font-family:'Roboto', cursive;
   letter-spacing: 2px;
 
 }

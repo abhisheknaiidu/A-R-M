@@ -88,7 +88,7 @@ else {
     <body>
 
     <style>
-@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 *, *:before, *:after {
   -moz-box-sizing: border-box;
@@ -98,7 +98,7 @@ else {
 
 body {
 
-  font-family:'Covered By Your Grace', cursive;
+  font-family:'Roboto', cursive;
   color: #384047;
     font-size:20px;
 

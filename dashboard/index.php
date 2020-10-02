@@ -22,7 +22,7 @@
 @import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
 
 .page-header {
-    font-family:'Covered By Your Grace', cursive;
+    font-family:'Roboto', cursive;
     text-shadow: 0 2px white, 0 3px #777;
     font-size: 30px;
 
@@ -33,7 +33,7 @@ thead  {
   color: #fff;
   font-size: 20px;
   text-transform: uppercase;
-  font-family:'Covered By Your Grace', cursive;
+  font-family:'Roboto', cursive;
   letter-spacing: 2px;
 }
 
@@ -41,7 +41,7 @@ td {
   background: #FF6F91;
   color: #111110;
   font-size: 19px;
-  font-family:'Covered By Your Grace', cursive;
+  font-family:'Roboto', cursive;
   letter-spacing: 2px;
 }
 
@@ -150,10 +150,10 @@ else {
 
   <style>
 
-@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 .page-header {
-    font-family:'Covered By Your Grace', cursive;
+    font-family:'Roboto', cursive;
     text-shadow: 0 2px white, 0 3px #777;
     font-size: 30px;
 
@@ -166,7 +166,7 @@ thead  {
   color: #fff;
   font-size: 20px;
   text-transform: uppercase;
-  font-family:'Covered By Your Grace', cursive;
+  font-family:'Roboto', cursive;
   letter-spacing: 2px;
 }
 
@@ -174,7 +174,7 @@ td {
   background: #FF6F91;
   color: #111110;
   font-size: 19px;
-  font-family:'Covered By Your Grace', cursive;
+  font-family:'Roboto', cursive;
   letter-spacing: 2px;
 }
 
