@@ -58,7 +58,7 @@ else {
     <link rel="stylesheet" href="css/style.css">
 </head>
 <style>
-@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 
 .bg-custom {
@@ -71,7 +71,7 @@ else {
 }
 
 .container , .login{
-font-family:'Covered By Your Grace', cursive;
+font-family:'Roboto', cursive;
   color:black;
   font-size: 20px;
 }

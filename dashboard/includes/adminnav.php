@@ -2,13 +2,13 @@
 <style>
 
 .nav {
-    font-family:'Covered By Your Grace', cursive;
+    font-family:'Roboto', cursive;
     font-size: 32px;
     background-color: #111110;
 }
 
 .navbar-brand{
-    font-family:'Covered By Your Grace', cursive;
+    font-family:'Roboto', cursive;
     font-size: 32px;
     background-color: #111110;
 
